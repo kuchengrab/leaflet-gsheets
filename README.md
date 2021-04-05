@@ -5,16 +5,17 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 - Leaflet Map https://kuchengrab.github.io/leaflet-gsheets/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1EAQ3QBNzFZUPWWGdMe_aI2Q3sIrPIAUekAaCZ9Vorg0/edit#gid=0
 
+---
+
 # Leaflet Maps with Google Sheets
 Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
 
+[Original Repo](https://github.com/HandsOnDataViz/leaflet-maps-with-google-sheets)
 ![Preview](preview.jpg)
-
----
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
-[Original Repo](https://github.com/HandsOnDataViz/leaflet-maps-with-google-sheets)
+
 
 #### Geocode your address data with Google Sheets add-on
 To geocode (find latitude and longitude coordinates), we recommend installing the free [Geocoding by SmartMonkey add-on for Google Sheets](https://gsuite.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312). Insert your addresses in place of the samples in the Geocoding Details tab, then use Add-Ons > Geocoding > Geocode Details menu. Learn more in *Hands-On Data Visualization* https://handsondataviz.org/geocode.html
